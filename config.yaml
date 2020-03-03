@@ -1,7 +1,7 @@
 baseURL: http://example.org/
 languageCode: en-us
 title: Acme Corporation
-theme: github.com/hugoinaction/Eclectic
+
 author:                                       # Information about the website author
   facebook: "https://facebook.com/example"
   twitter: "https://twitter.com/example"
